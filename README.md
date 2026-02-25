@@ -15,7 +15,17 @@
 </ul>
 <h1 id="section"></h1>
 <blockquote>
-<p>Metologias de Desenvolvimento de Software @ 20202<br>
-<img src="https://eduportugal.eu/wp-content/uploads/2017/08/eduportugal_ipleiria_n.jpg" alt=""></p>
+<p222guendeprgraconhecidas:
+* c
+* Javascript
+* Python
+* ...
+#
+>Metologias de Desenvolvimento de Software @ 20202<br>
+<img src="
+![](https://eduportugal.eu/wp-content/uploads/2017/08/eduportugal_ipleiria_n.jpg" alt=""></p>
 </blockquote>
-
+)
+<!--stackedit_data:
+eyJoaXN0b3J5IjpbLTkwMzYzODg3MF19
+-->
